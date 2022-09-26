@@ -1,6 +1,6 @@
 #  MT691_to_InfluxDB
 
-An **ESP8266** program for obtaining data from a **MT691** and saving it to an InfluxDB.
+An **ESP8266** program for obtaining data from a **MT691** and saving it to an **InfluxDB**.
 
 #  Features
 
